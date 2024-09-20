@@ -10,7 +10,7 @@
     --cor-de-fundo: #000000
     --branco: #FFFFFF;
     --vermelho: hsl(0, 100%, 46%);
-    --azul-degrade: linear-gradient(97.54deg, #ff0505d7 165.37%, #ff0505d7 165.37%);
+    --azul-degrade: linear-gradient(97.54deg, #a00e0ef3 165.37%, #a00e0ef3 165.37%);
     --fonte-principal: "Poppins";
     --azul: #520500f5;
     --fonte-secundario: "Josefin Sans";
@@ -24,4 +24,9 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
+}
+
+.container__imagem {
+width: 50%;
+height: auto;
 }
