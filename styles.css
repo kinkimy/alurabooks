@@ -10,7 +10,7 @@
     --cor-de-fundo: #000000
     --branco: #FFFFFF;
     --vermelho: hsl(0, 100%, 46%);
-    --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #ff0505d7 165.37%);
+    --azul-degrade: linear-gradient(97.54deg, #ff0505d7 165.37%, #ff0505d7 165.37%);
     --fonte-principal: "Poppins";
     --azul: #520500f5;
     --fonte-secundario: "Josefin Sans";
